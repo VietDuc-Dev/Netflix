@@ -18,7 +18,7 @@ This project leverages the latest tools and frameworks for modern development:
 
 ### 1. DEMO
 
-https://teams-project-management-app.vercel.app/
+https://moonflix.vercel.app/
 
 ### 2. Set Up Environment Variables
 
